@@ -56,7 +56,11 @@ The dashboard is designed to be highly interactive and visually polished, offeri
 
 ## 📸 Quick Preview
 
-*(Add screenshots here to showcase Home Page, Explore Sets Page, Decomposition Tree view, etc.)*
+### 🧩 Explore Sets Page
+![Explore Sets Page](assets/Lego_set.png)
+
+### 🌳 Decomposition Tree View
+![Decomposition Tree View](assets/Tree.png)
 
 ---
 
