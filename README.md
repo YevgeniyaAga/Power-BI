@@ -1,10 +1,8 @@
 🧳 LEGO Set Explorer | Power BI Interactive Dashboard
 
-🎉 About The Project
+🎉 About the Project
 
-This project simulates the experience of an avid LEGO collector exploring over 4,000 LEGO sets to find the perfect next set. It was built as part of an advanced Power BI crash course led by Maven Analytics Founder Chris Dutton.
-
-The goal was to design an interactive and visually polished dashboard that allows users to explore LEGO sets dynamically, using filters such as theme, piece count, age range, and price.
+This project simulates the experience of an avid LEGO collector exploring over 4,000 LEGO sets to find the perfect next set. Built as part of an advanced Power BI crash course led by Maven Analytics Founder Chris Dutton, the dashboard is designed to be highly interactive and visually polished.
 
 📊 Key Features
 
@@ -14,11 +12,11 @@ Custom Image Tooltips: Hover over a LEGO set name to view a thumbnail image of t
 
 Decomposition Tree: Drill down into total pieces by theme, age range, and year.
 
-Numeric Range Parameters: Allow dynamic selection of piece count or price ranges.
+Numeric Range Parameters: Dynamically select piece counts or price ranges.
 
 Bookmark Actions: Implement a "Reset Filters" button for user-friendly navigation.
 
-Page Navigation: Seamlessly navigate between exploration pages and set details pages.
+Page Navigation: Seamless transitions between exploration pages and set detail pages.
 
 Professional UI/UX: Clean layout with rounded corners, shadows, and smooth slicer experiences.
 
@@ -36,13 +34,13 @@ Designing a professional, polished report layout
 
 📑 Project Structure
 
-Home Page: Overview metrics and navigation buttons
+Home Page: Overview metrics and navigation buttons.
 
-Explore Sets: Filter and analyze sets with slicers and interactive visuals
+Explore Sets: Filter and analyze sets with slicers and interactive visuals.
 
-Set Details Tooltip: Dynamic thumbnail images shown on hover
+Set Details Tooltip: Dynamic thumbnail images shown on hover.
 
-Decomposition Tree Page: Explore sets by themes, years, and age categories
+Decomposition Tree Page: Explore sets by themes, years, and age categories.
 
 🔧 Tools & Technologies
 
@@ -54,7 +52,7 @@ Power BI Service (for publishing)
 
 🔖 Quick Preview
 
-(Add screenshots here if you want: Home page, Explore page, Decomposition Tree view, etc.)
+(Add screenshots here to showcase Home page, Explore Sets page, and Decomposition Tree view.)
 
 👥 Acknowledgments
 
@@ -63,12 +61,13 @@ Special thanks to Maven Analytics and Chris Dutton for providing high-quality le
 📅 Project Status
 
 ✅ Completed and published.
+
 ✅ Future enhancements could include dynamic set recommendations based on user-selected criteria.
 
-🚀 How To Explore
+🚀 How to Explore
 
-Clone/download the repository.
+Clone or download the repository.
 
 Open the .pbix file in Power BI Desktop.
 
-Explore different pages, interact with slicers, and experience the dynamic navigation and tooltips.
+Explore different pages, interact with slicers, and experience dynamic navigation and tooltips.
