@@ -1,73 +1,87 @@
-LEGO Set Explorer | Power BI Interactive Dashboard
+# 🧱 LEGO Set Explorer | Power BI Interactive Dashboard
 
-🎉 About the Project
+An interactive Power BI dashboard simulating the experience of an avid LEGO collector exploring over 4,000 LEGO sets to find the perfect next set.
 
-This project simulates the experience of an avid LEGO collector exploring over 4,000 LEGO sets to find the perfect next set. Built as part of an advanced Power BI crash course led by Maven Analytics Founder Chris Dutton, the dashboard is designed to be highly interactive and visually polished.
+---
 
-📊 Key Features
+## 🔗 Explore the Interactive Dashboard
+*(Note: Available as a downloadable .pbix file)*
 
-Interactive Exploration: Filter LEGO sets by theme, age range, price, and number of pieces.
+---
 
-Custom Image Tooltips: Hover over a LEGO set name to view a thumbnail image of the box art.
+## ✨ Project Overview
 
-Decomposition Tree: Drill down into total pieces by theme, age range, and year.
+This project was completed as part of an advanced Power BI crash course led by Maven Analytics Founder Chris Dutton.  
+The dashboard is designed to be highly interactive and visually polished, offering an intuitive way to explore LEGO sets based on key criteria.
 
-Numeric Range Parameters: Dynamically select piece counts or price ranges.
+---
 
-Bookmark Actions: Implement a "Reset Filters" button for user-friendly navigation.
+## 🎯 Key Features
 
-Page Navigation: Seamless transitions between exploration pages and set detail pages.
+- **Interactive Exploration:** Filter LEGO sets by theme, age range, price, and number of pieces.
+- **Custom Image Tooltips:** Hover over a LEGO set name to view a thumbnail image of the box art.
+- **Decomposition Tree:** Drill down into total pieces by theme, age range, and year.
+- **Numeric Range Parameters:** Dynamically select piece counts or price ranges.
+- **Bookmark Actions:** "Reset Filters" button for user-friendly navigation.
+- **Page Navigation:** Seamless transitions between pages.
+- **Professional UI/UX:** Clean layout with rounded corners, shadows, and smooth slicer experiences.
 
-Professional UI/UX: Clean layout with rounded corners, shadows, and smooth slicer experiences.
+---
 
-📚 Learning Outcomes
+## 📚 Learning Outcomes
 
-Advanced visual formatting in Power BI (cards, tooltips, buttons)
+- Advanced visual formatting in Power BI (cards, tooltips, buttons)
+- Dynamic data interactions through parameters and slicers
+- Bookmarking and page navigation techniques
+- Use of decomposition trees for ad-hoc data exploration
+- Designing a professional, polished report layout
 
-Dynamic data interactions through parameters and slicers
+---
 
-Bookmarking and page navigation techniques
+## 📂 Project Structure
 
-Use of decomposition trees for ad-hoc data exploration
+- **Home Page:** Overview metrics and navigation buttons.
+- **Explore Sets:** Filter and analyze sets using interactive slicers and visuals.
+- **Set Details Tooltip:** Dynamic thumbnail images shown on hover.
+- **Decomposition Tree Page:** Explore sets by themes, years, and age categories.
 
-Designing a professional, polished report layout
+---
 
-📑 Project Structure
+## 🛠️ Tools & Technologies
 
-Home Page: Overview metrics and navigation buttons.
+- Power BI Desktop
+- DAX Measures and Calculated Columns
 
-Explore Sets: Filter and analyze sets with slicers and interactive visuals.
+---
 
-Set Details Tooltip: Dynamic thumbnail images shown on hover.
+## 📸 Quick Preview
 
-Decomposition Tree Page: Explore sets by themes, years, and age categories.
+*(Add screenshots here to showcase Home Page, Explore Sets Page, Decomposition Tree view, etc.)*
 
-🔧 Tools & Technologies
+---
 
-Power BI Desktop
-
-DAX Measures and Calculated Columns
-
-Power BI Service (for publishing)
-
-🔖 Quick Preview
-
-(Add screenshots here to showcase Home page, Explore Sets page, and Decomposition Tree view.)
-
-👥 Acknowledgments
+## 👥 Acknowledgments
 
 Special thanks to Maven Analytics and Chris Dutton for providing high-quality learning resources and inspiration for this project.
 
-📅 Project Status
+---
 
-✅ Completed and published.
+## 📅 Project Status
 
-✅ Future enhancements could include dynamic set recommendations based on user-selected criteria.
+- ✅ Completed and published.
+- 🚀 Future enhancements could include dynamic set recommendations based on user-selected criteria.
 
-🚀 How to Explore
+---
 
-Clone or download the repository.
+## 🧭 How to Explore
 
-Open the .pbix file in Power BI Desktop.
+1. Clone or download this repository.
+2. Open the `.pbix` file in **Power BI Desktop**.
+3. Explore different pages, interact with slicers, and experience dynamic navigation and tooltips.
 
-Explore different pages, interact with slicers, and experience dynamic navigation and tooltips.
+
+
+
+
+
+
