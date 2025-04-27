@@ -1,4 +1,4 @@
-🧳 LEGO Set Explorer | Power BI Interactive Dashboard
+LEGO Set Explorer | Power BI Interactive Dashboard
 
 🎉 About the Project
 
