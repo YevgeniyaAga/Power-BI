@@ -26,6 +26,5 @@ Customer Habits: Peak hours? 8–11 AM — right when the morning rush kicks in.
 ✨ This project helped me strengthen my skills in data modeling, DAX, and dashboard storytelling.
 
 📸 Preview
-KPI_Sales_Customer/assets/Sales Dashbord.png
-
+![Coffee Dashboard Preview](assets/Coffee_Dashboard.png)
 
