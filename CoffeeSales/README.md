@@ -1,29 +1,31 @@
-☕ Coffee Shop Sales Dashboard — created as part of Anh Leimer's "Accelerate Career with Power BI" training program.
+**☕ Coffee Shop Sales Dashboard** — created as part of Anh Leimer's _"Accelerate Career with Power BI"_ training program.
 
 This interactive dashboard reveals performance insights across store locations, product lines, and customer behavior — helping decision-makers make sense of sales trends and identify growth opportunities.
 
-🔗 View Interactive Dashboard: https://app.powerbi.com/view?r=eyJrIjoiZTdlMDdjZjEtY2M3Mi00Y2IzLWIwOTUtZTdmYjZiMTI3M2ZjIiwidCI6ImNiNDg0NDZlLTkwZTYtNGJmMS04MjViLTQwZTQ4ZmNjOWZmNiJ9
+🔗 **View Interactive Dashboard**: [Click here](https://app.powerbi.com/view?r=eyJrIjoiZTdlMDdjZjEtY2M3Mi00Y2IzLWIwOTUtZTdmYjZiMTI3M2ZjIiwidCI6ImNiNDg0NDZlLTkwZTYtNGJmMS04MjViLTQwZTQ4ZmNjOWZmNiJ9)
 
-📌 Key Insights:
+---
 
-💰 Total Sales (Jan–June): $726,866
+### 📌 **Key Insights**
 
-📦 Total Quantity Sold: 214,470 items
+- 💰 **Total Sales (Jan–June):** $726,866  
+- 📦 **Total Quantity Sold:** 214,470 items  
+- 🛍️ **June Transactions:** 25,145  
 
-🛍️ June Transactions: 25,145
+---
 
-🔎 Notable Takeaways:
+### 🔎 **Notable Takeaways**
 
-Top Products: Coffee leads with 25% of all sales — followed by Bakery and Tea.
+- **Top Products:** Coffee leads with 25% of all sales — followed by Bakery and Tea.  
+- 📍 **Store Sales:** Sales are almost evenly distributed across Astoria (34.18%), Hell’s Kitchen (33.58%), and Lower Manhattan (32.24%).
 
-📍 Store Sales: Sales are almost evenly distributed across Astoria (34.18%), Hell’s Kitchen (33.58%), and Lower Manhattan (32.24%).
 
+- 📈 **Trends:** After a drop in April, May saw a strong rebound (**+77.73%**), and June continued upward (**+5.58%**).
 
-📈 Trends: After a drop in April, May saw a strong rebound (+77.73%), and June continued upward (+5.58%).
+- **Customer Habits:** Peak hours? **8–11 AM** — right when the morning rush kicks in.
 
-Customer Habits: Peak hours? 8–11 AM — right when the morning rush kicks in.
+- ✨ **This project helped me strengthen my skills** in data modeling, DAX, and dashboard storytelling.
 
-✨ This project helped me strengthen my skills in data modeling, DAX, and dashboard storytelling.
 
 ### ☕ Coffee Dashboard Preview
 
