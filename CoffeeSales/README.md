@@ -25,6 +25,13 @@ Customer Habits: Peak hours? 8–11 AM — right when the morning rush kicks in.
 
 ✨ This project helped me strengthen my skills in data modeling, DAX, and dashboard storytelling.
 
-📸 Preview
-![Coffee Sales Dashboard](https://raw.githubusercontent.com/YevgeniyaAga/Power-BI/main/CoffeeSales/assets/Coffee_Dashbord.png)
+### ☕ Coffee Dashboard Preview
 
+![Coffee Sales Dashboard](https://raw.githubusercontent.com/YevgeniyaAga/Power-BI/main/CoffeeSales/assets/Coffee_Dashbord.png)
+### 📊 Monthly Sales Preview
+
+![Monthly Sales](https://raw.githubusercontent.com/YevgeniyaAga/Power-BI/main/CoffeeSales/assets/Monthly%20Sales.png)
+
+### 🛍️ Shopper Behavior Preview
+
+![Shopper Behavior](https://raw.githubusercontent.com/YevgeniyaAga/Power-BI/main/CoffeeSales/assets/Shopper%20Behavior.png)
