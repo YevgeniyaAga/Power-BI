@@ -1,18 +1,8 @@
-🚀 I'm excited to share my latest work:
-
- ☕ Coffee Shop Sales Dashboard — created as part of Anh Leimer's "Accelerate Career with Power BI" training program.
-
-
+☕ Coffee Shop Sales Dashboard — created as part of Anh Leimer's "Accelerate Career with Power BI" training program.
 
 This interactive dashboard reveals performance insights across store locations, product lines, and customer behavior — helping decision-makers make sense of sales trends and identify growth opportunities.
 
-
-
 🔗 View Interactive Dashboard: https://app.powerbi.com/view?r=eyJrIjoiZTdlMDdjZjEtY2M3Mi00Y2IzLWIwOTUtZTdmYjZiMTI3M2ZjIiwidCI6ImNiNDg0NDZlLTkwZTYtNGJmMS04MjViLTQwZTQ4ZmNjOWZmNiJ9
-
- 🔗 Portfolio: [insert link or mention it's coming soon]
-
-
 
 📌 Key Insights:
 
