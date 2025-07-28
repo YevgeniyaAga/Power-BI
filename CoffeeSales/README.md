@@ -2,7 +2,7 @@
 
 This interactive dashboard reveals performance insights across store locations, product lines, and customer behavior — helping decision-makers make sense of sales trends and identify growth opportunities.
 
-🔗 **View Interactive Dashboard**: [Click here]([https://app.powerbi.com/view?r=eyJrIjoiZTdlMDdjZjEtY2M3Mi00Y2IzLWIwOTUtZTdmYjZiMTI3M2ZjIiwidCI6ImNiNDg0NDZlLTkwZTYtNGJmMS04MjViLTQwZTQ4ZmNjOWZmNiJ9])
+🔗 **View Interactive Dashboard**: [https://app.powerbi.com/view?r=eyJrIjoiMjA3Y2JkYTktMGMwYy00ZDUwLTk4NTQtOTM3OTNiMjE4ZWRjIiwidCI6ImNiNDg0NDZlLTkwZTYtNGJmMS04MjViLTQwZTQ4ZmNjOWZmNiJ9]
 
 ---
 
