@@ -36,4 +36,4 @@ This interactive dashboard reveals performance insights across store locations, 
 
 ### 🛍️ Shopper Behavior Preview
 
-![Shopper Behavior](https://raw.githubusercontent.com/YevgeniyaAga/Power-BI/main/CoffeeSales/assets/3rd page.png)
+![Shopper Behavior](https://raw.githubusercontent.com/YevgeniyaAga/Power-BI/main/CoffeeSales/assets/3rdpage.png)
