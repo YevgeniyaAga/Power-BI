@@ -29,11 +29,11 @@ This interactive dashboard reveals performance insights across store locations, 
 
 ### ☕ Coffee Dashboard Preview
 
-![Coffee Sales Dashboard](https://raw.githubusercontent.com/YevgeniyaAga/Power-BI/main/CoffeeSales/assets/Coffee_Dashbord.png)
+![Coffee Sales Dashboard](https://raw.githubusercontent.com/YevgeniyaAga/Power-BI/main/CoffeeSales/assets/1st page.png)
 ### 📊 Monthly Sales Preview
 
-![Monthly Sales](https://raw.githubusercontent.com/YevgeniyaAga/Power-BI/main/CoffeeSales/assets/Monthly%20Sales.png)
+![Monthly Sales](https://raw.githubusercontent.com/YevgeniyaAga/Power-BI/main/CoffeeSales/assets/2nd page.png)
 
 ### 🛍️ Shopper Behavior Preview
 
-![Shopper Behavior](https://raw.githubusercontent.com/YevgeniyaAga/Power-BI/main/CoffeeSales/assets/Shopper%20Behavior.png)
+![Shopper Behavior](https://raw.githubusercontent.com/YevgeniyaAga/Power-BI/main/CoffeeSales/assets/3rd page.png)
