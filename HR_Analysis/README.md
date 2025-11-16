@@ -5,10 +5,18 @@ The dashboard provides an end-to-end analysis of essential HR metrics to support
 
 ---
 
-## 📸 Dashboard Preview
+## 📸 Dashboard Preview — Page 1
 
 <p align="center">
-  <img src="assets/HR_page_1.png" alt="HR Dashboard Preview" width="800">
+  <img src="assets/HR_page_1.png" alt="HR Dashboard Page 1 Preview" width="800">
+</p>
+
+---
+
+## 📸 Dashboard Preview — Page 2
+
+<p align="center">
+  <img src="assets/HR_page_2.png" alt="HR Dashboard Page 2 Preview" width="800">
 </p>
 
 ---
@@ -24,30 +32,30 @@ This interactive **Power BI dashboard** explores key HR analytics, including:
 
 ### 👩‍💼 Workforce Diversity  
 - Gender balance across departments  
-- Age distribution by role  
+- Age distribution by job role and team  
 
 ### 💰 Compensation & Pay Equity  
-- Salary patterns by seniority, job role, and business unit  
-- Bonus distribution and pay equity patterns  
+- Salary patterns by seniority, role, and unit  
+- Bonus distribution  
+- Pay equity indicators  
 
 ### 📈 Employee Retention  
 - Year-over-year retention trends  
-- Gender-based retention differences  
-- Department-level turnover insights  
+- Gender and department-level retention analysis  
 
 ### 🌍 Geographic Overview  
-- Employee distribution across locations  
+- Employee distribution across office locations  
 
-The report incorporates **ZoomCharts drill-down visuals** for dynamic exploration.
+The dashboard integrates **ZoomCharts** for dynamic filtering and drill-down exploration.
 
 ---
 
 ## 🔎 Key Insights
 
-- **Pay equity gaps** exist between roles and units — supporting transparent salary reviews  
-- **Retention improved YoY**, especially in mid-management roles  
-- Department-level **demographic patterns** reveal opportunities for diversity initiatives  
-- Salary and bonus patterns highlight areas where compensation fairness can be improved  
+- **Pay equity gaps** found between certain business units  
+- **Retention improved YoY**, with strongest gains in mid-management  
+- Workforce composition shows **clear demographic patterns** across departments  
+- Geographic staffing differences reflect strategic resource allocation  
 
 ---
 
@@ -55,8 +63,8 @@ The report incorporates **ZoomCharts drill-down visuals** for dynamic exploratio
 
 - **Power BI Desktop**  
 - **Power Query** for data transformation  
-- **DAX (Data Analysis Expressions)**  
-- **ZoomCharts** for drill-down interactivity  
-- **Data modeling & dashboard storytelling**  
-- HR analytics methodologies  
+- **DAX** (time intelligence, KPIs, segmentation)  
+- **ZoomCharts drill-down visuals**  
+- **Data storytelling & dashboard UX**  
+- HR analytics framework  
 
